@@ -1,3 +1,0 @@
-v1.0.2:
-- Mejora en la detección de versiones
-- Optimización del sistema de gangs

@@ -1,1 +1,4 @@
 1.0.2
+- Fix en el sistema de gangs
+- Optimización del loop principal
+- Nuevo comando /ganghelp
