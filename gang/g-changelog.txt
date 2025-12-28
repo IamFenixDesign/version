@@ -1,4 +1,5 @@
-v1.0.2-1:
-- Added changelog prints
-- Fixed ESX Support
-- Fix not able to edit name on ESX
+v1.0.3:
+- Add option to use TextUI instead of target (text configurable in locales)
+- Add translation on pick with marker textui
+- Add TGIANN Inventory compatibility 
+- Fix props position on load on ESX
