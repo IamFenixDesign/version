@@ -1,5 +1,8 @@
-v1.0.3:
-- Add option to use TextUI instead of target (text configurable in locales)
-- Add translation on pick with marker textui
-- Add TGIANN Inventory compatibility 
-- Fix props position on load on ESX
+v1.0.4:
+- Add  qb-inventory compatibility 
+- Add qb-menu compatibility
+- Add menu script config 
+- Add qb-core progressbar 
+- Add qb-clothing support
+- Add more notify to configs
+- Remove comments on all files (This dont change nothing on script, replace all files)
