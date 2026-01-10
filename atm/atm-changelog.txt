@@ -1,0 +1,3 @@
+v1.2.0:
+- Add fenix-minigame support
+- Changed version prints on console
