@@ -1,3 +1,6 @@
 v1.0.1:
-- Added changelog prints
-- Redesign UI
+- Changed information on fxmanifest
+- Added importcar add on settings
+- Added language ui support (english/spanish)
+- Fix console prints
+- Replaced emojis for icons
