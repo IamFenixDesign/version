@@ -1,8 +1,6 @@
-v1.0.4:
-- Add  qb-inventory compatibility 
-- Add qb-menu compatibility
-- Add menu script config 
-- Add qb-core progressbar 
-- Add qb-clothing support
-- Add more notify to configs
-- Remove comments on all files (This dont change nothing on script, replace all files)
+v1.0.5:
+- Add confirmation box to remove options
+- Add gangname in topbar when is selected
+- Add themes and posibility to import custome ones 
+- Add website on about section 
+- Reorganized.js
