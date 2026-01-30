@@ -1,0 +1,6 @@
+v1.2.0:
+- Fixed qb-target compatibility
+- Fixed qb-clothing compatibility
+- Reorganized files
+
+
