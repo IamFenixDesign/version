@@ -1,6 +1,4 @@
 v1.0.5:
-- Add confirmation box to remove options
-- Add gangname in topbar when is selected
-- Add themes and posibility to import custome ones 
-- Add website on about section 
-- Reorganized.js
+- Add RCORE Clothing and TGIANN Clothing compatibility
+- Add compatibility to move ui all around the screen
+- Fixed Craftstation creation bug 
