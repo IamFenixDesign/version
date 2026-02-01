@@ -1,6 +1,3 @@
-v1.0.2:
-- Changed information on fxmanifest
-- Added importcar add on settings
-- Added language ui support (english/spanish)
-- Fix console prints
-- Replaced emojis for icons
+v1.0.3:
+- Add each job now is colapsed once you click on each will see go on duty and other things
+- Add posibility to move ui all around the screen
