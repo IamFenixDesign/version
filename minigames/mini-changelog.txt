@@ -1,2 +1,3 @@
-v1.0.0:
-- Initial release
+v1.0.1:
+- Add maze minigame
+- Fixed lockpick rotation minigame
