@@ -1,4 +1,4 @@
-v1.0.5:
-- Add RCORE Clothing and TGIANN Clothing compatibility
-- Add compatibility to move ui all around the screen
-- Fixed Craftstation creation bug 
+v1.0.7:
+- Add Zones creator tab
+- Add arrow on theme selector
+
