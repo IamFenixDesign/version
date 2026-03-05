@@ -1,4 +1,9 @@
-v1.0.7:
-- Add Zones creator tab
-- Add arrow on theme selector
+v1.0.8:
+- Added creator  garage tab
+- Added NPC tab
+- Added command to see gang and rank
+- Added new translations
+- Added missing translations
+- Form organization improved in all tabs
+- Locales are now .lua instead of json
 
