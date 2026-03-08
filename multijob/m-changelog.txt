@@ -1,3 +1,4 @@
-v1.0.3:
-- Add each job now is colapsed once you click on each will see go on duty and other things
-- Add posibility to move ui all around the screen
+v1.0.4:
+- Added job payment to each job
+- Design improves
+- Fix issues related with reposition and open multijob
