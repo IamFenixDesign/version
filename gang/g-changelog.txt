@@ -1,9 +1,9 @@
-v1.0.8:
-- Added creator  garage tab
-- Added NPC tab
-- Added command to see gang and rank
-- Added new translations
-- Added missing translations
-- Form organization improved in all tabs
-- Locales are now .lua instead of json
-
+v1.0.9:
+- Added new tab organization with menu
+- Added searchbar for each gang
+- Added ped reactions on non gang members
+- Added logs config for peds
+- Added locales to garagemenu and membersmenu
+- Removed username and avatar config from logs
+- ixed NPC not being deleted when gangs was deleted
+- Fixed ox_lib notify icons on ESX
