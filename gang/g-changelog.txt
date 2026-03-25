@@ -1,9 +1,9 @@
-v1.0.9:
-- Added new tab organization with menu
-- Added searchbar for each gang
-- Added ped reactions on non gang members
-- Added logs config for peds
-- Added locales to garagemenu and membersmenu
-- Removed username and avatar config from logs
-- ixed NPC not being deleted when gangs was deleted
-- Fixed ox_lib notify icons on ESX
+v1.1.0:
+- Redesign all UI
+- Added siderbar menu option
+- Added esx_textui compatibility
+- Added esx_menu compatibility
+- Added esx_addoninventory compatibility
+- Added esx_addonaccount compatibility
+- Added auto-copy on QB/ESX Notify
+- Update some locales
