@@ -1,9 +1,14 @@
-v1.1.0:
-- Redesign all UI
-- Added siderbar menu option
-- Added esx_textui compatibility
-- Added esx_menu compatibility
-- Added esx_addoninventory compatibility
-- Added esx_addonaccount compatibility
-- Added auto-copy on QB/ESX Notify
-- Update some locales
+v1.1.1:
+- Added QBox Bridge
+- Added qbox-vehiclekeys
+- Added esx_progressbar compatibility
+- Added auto detect progressbar on config.lua
+- Added in game update notifier
+- Added online/offline status
+- Added Last connection on Player information
+- Added adning gang zones command to see all zones
+- Added gang summary
+- Fixed players not gettings items on craftstations
+- Organized config.lua
+- Redesign about section
+- Changed i for Icon
