@@ -1,14 +1,8 @@
-v1.1.1:
-- Added QBox Bridge
-- Added qbox-vehiclekeys
-- Added esx_progressbar compatibility
-- Added auto detect progressbar on config.lua
-- Added in game update notifier
-- Added online/offline status
-- Added Last connection on Player information
-- Added adning gang zones command to see all zones
-- Added gang summary
-- Fixed players not gettings items on craftstations
-- Organized config.lua
-- Redesign about section
-- Changed i for Icon
+v1.1.2:
+- Added option to set a password to stash
+- Added locales to About section
+- Added developer mode on about **Will show player gang export**
+- The tabs are now sorted alphabetically
+- Garage are now shared between gangmembers
+- Removed vertical scrollbar on members in gang summary
+- Replaced background of the edit gang modal
