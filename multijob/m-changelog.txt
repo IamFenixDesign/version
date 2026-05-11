@@ -1,4 +1,8 @@
-v1.0.4:
-- Added job payment to each job
-- Design improves
-- Fix issues related with reposition and open multijob
+v2.0.0:
+- Brand modern UI using Svelte 5
+- Light and dark theme
+- Ace permission for each framework - Check install_guide folder
+- Improved compatibilidad on QBox | QBcore | ESX
+- Added on ESX on/off duty
+- Removed SQL
+- Added frameworks/notify/permissions on a bridge folder
