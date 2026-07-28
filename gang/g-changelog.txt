@@ -1,3 +1,2 @@
-v1.1.4:
-- Replace Config.CommandLicenses for AcePermissions
-- Add rename resource folder protection
+v2.0:
+- Initial release
