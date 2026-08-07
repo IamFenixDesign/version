@@ -1,2 +1,7 @@
-v2.0.1:
-- Fixed prop rotations
+v2.1.0:
+- Fixed anim sync on Hoostage
+- Fixed anim sync on Kill hoostage
+- Fixed error causing not able to interact with fenix-menu
+- Edited how access restriction works on Bossmenu
+- Edited how access restriction works on Stash
+- Remove 0 number on ranks, since bossmenu, etc use lvl 1 for access
