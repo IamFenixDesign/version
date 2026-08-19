@@ -1,7 +1,6 @@
-v2.1.0:
-- Fixed anim sync on Hoostage
-- Fixed anim sync on Kill hoostage
-- Fixed error causing not able to interact with fenix-menu
-- Edited how access restriction works on Bossmenu
-- Edited how access restriction works on Stash
-- Remove 0 number on ranks, since bossmenu, etc use lvl 1 for access
+v2.1.1:
+- Added more placement options to props
+- Fixed design form on shops
+- Fixed error causing non gang members seeing interact point on Target System
+- Improved CPU usage
+- Removed current location on all form
