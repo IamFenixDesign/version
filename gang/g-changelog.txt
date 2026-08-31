@@ -1,6 +1,11 @@
-v2.1.1:
-- Added more placement options to props
-- Fixed design form on shops
-- Fixed error causing non gang members seeing interact point on Target System
-- Improved CPU usage
-- Removed current location on all form
+v2.2.0:
+- Added auto expansion of territory based on levels
+- Added Sidebar options
+- Moved information tab
+- Moved actions to own tab
+- Moved drugs to own tab
+- Improved Design on sidebar
+- Redesign create button
+- Redesign summary tab
+- Removed homescreen design
+- Removed themes
