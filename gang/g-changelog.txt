@@ -1,11 +1,10 @@
-v2.2.0:
-- Added auto expansion of territory based on levels
-- Added Sidebar options
-- Moved information tab
-- Moved actions to own tab
-- Moved drugs to own tab
-- Improved Design on sidebar
-- Redesign create button
-- Redesign summary tab
-- Removed homescreen design
-- Removed themes
+v2.3.0:
+- Added dispatch tab
+- Added graffiti remover tab
+- Added map tab to replace `gangterritories` command
+- Added robbery creator tab
+- Added welcome screen on first load
+- Bug fixes
+- Moved fenix-menu and interact to fenix-lib
+- Redesigned NUI
+- Renamed to Fenix - Ilegal System
