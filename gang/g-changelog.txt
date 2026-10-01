@@ -1,10 +1,4 @@
-v2.3.0:
-- Added dispatch tab
-- Added graffiti remover tab
-- Added map tab to replace `gangterritories` command
-- Added robbery creator tab
-- Added welcome screen on first load
-- Bug fixes
-- Moved fenix-menu and interact to fenix-lib
-- Redesigned NUI
-- Renamed to Fenix - Ilegal System
+v2.3.1:
+- Added reward on prop robbery
+- Fixed An invalid form control with name='' is not focusable. (@fenix-ilegalsystem/html/index.html:0)
+- UI changes on prop form 
