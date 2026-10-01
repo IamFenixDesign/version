@@ -1,2 +1,8 @@
-v1.0.0
-- Initial release
+v1.1.0
+- Redesigned NUI
+- Added welcome screen on first load
+- Updated language selector with flag and code
+- Matched job app icon backgrounds
+- Redesigned summary tab
+- Added changelog translations
+- Fixed shops
